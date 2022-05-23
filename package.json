@@ -1,0 +1,24 @@
+{
+  "name": "discord-fast-intents",
+  "version": "1.0.0",
+  "description": "simple module to get all Discord Intents quickly",
+  "main": "src/module.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neverluckness/discord-fast-intents.git"
+  },
+  "keywords": [
+    "discord",
+    "intents"
+  ],
+  "author": "khasarah#0844",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  },
+  "engines": {
+    "node": ">=16.6.0",
+    "npm": ">=7.0.0"
+  }
+}
